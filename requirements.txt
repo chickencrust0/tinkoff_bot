@@ -1,0 +1,8 @@
+tinkoff-invest-api
+pandas
+numpy
+matplotlib
+scikit-learn
+tqdm
+pyarrow
+fastparquet
